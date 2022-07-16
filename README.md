@@ -47,6 +47,14 @@ There will be 7 roles including Engineer, Staff, Senior Engineer, Senior Staff, 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are little over 1500 employees eligible for the mentorship program. To be exact, the number is:
  -	1, 549
+ 
+- Provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+  
+  Here are two additional query images that provide Senior Engineers and total count of Senior Engineers that are about to retire.<br>
+  
+  Senior Engineers:![Senior_Engineers.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/Senior_Engineers.png?raw=true)<br>
+  
+  Total Senior Engineer:![Total_Senior_Engineer.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/Total_Senior_Engineer.png?raw=true)<br>
 
 
 ## Links to images:
