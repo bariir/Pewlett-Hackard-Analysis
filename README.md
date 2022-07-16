@@ -51,3 +51,9 @@ There are little over 1500 employees eligible for the mentorship program. To be 
 
 # Links to images:
 Retirement Titles:![Retirement_Titles.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/Retirement_Titles.png?raw=true)
+
+Unique Titles:![Unique_Titles.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/Unique_Titles.png?raw=true)
+
+Count of Retiring Titles:![Retiring_Titles.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/Retiring_Titles.png?raw=true)
+
+Mentorship Eligible Employees:![Mentorship_Eligibility.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/Mentorship_Eligibility.png?raw=true)
