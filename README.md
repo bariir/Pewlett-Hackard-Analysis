@@ -55,7 +55,7 @@ There are little over 1500 employees eligible for the mentorship program. To be 
 -  Senior Engineers that are retiring soon.<br>
   ![Senior Engineers](/Resources/Senior_Engineers.png)<br>
 
-- Total count of Senior Engineers that are retiring soon<br>
+- Total Count of Senior Engineers that are retiring soon<br>
   ![Total count of Senior Engineers](/Resources/Total_Senior_Engineer.png)<br>
 
 
