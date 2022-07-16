@@ -18,16 +18,16 @@ Git Bash to commit changes into GitHub Repository
 ## Finding
 The analysis of the Pewlett Hackard employee results shows that:
 - Retiring employees and their title where their birth date is between ‘1952-01-01’ and ‘1955-12-31’
-![Retirement Titles](/Resources/Retirement_Titles.png)
+![Retirement Titles](/Resources/Retirement_Titles.png)\n
 
 -  Unique employees with their latest titles
-![Unique Titles](/Resources/Unique_Titles.png)
+![Unique Titles](/Resources/Unique_Titles.png)\n
 
 - Count of retiring employees and their titles
-![Retiring Titles](/Resources/Retiring_Titles.png)
+![Retiring Titles](/Resources/Retiring_Titles.png)\n
 
 - Employees eligible for mentorship program
-![Mentorship Eligibility](/Resources/Mentorship_Eligibility.png)
+![Mentorship Eligibility](/Resources/Mentorship_Eligibility.png)\n
 
 ## Summary
 
