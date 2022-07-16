@@ -24,8 +24,11 @@ The analysis of the Pewlett Hackard employee results shows that:
 -  Unique employees with their latest titles<br>
  ![Unique Titles](/Resources/Unique_Titles.png)<br>
 
+-  Count of retiring employees and their titles<br>
+![Retiring Titles](/Resources/Retiring_Titles.png)<br>
 
-
+- Employees eligible for mentorship program<br>
+![Mentorship Eligibility](/Resources/Mentorship_Eligibility.png)<br>
 
 
 ## Summary
