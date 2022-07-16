@@ -12,8 +12,9 @@ Bobby, who is analyst, is helping out this effort and will deliver the following
 - Bobby will provide a query and dataset that contains retiring employee titles. 
 - Bobby will provide a query and dataset that contains mentorship eligibility for employees who are eligible to participate.
 
-- Tools and Software: QuickDB for ERD, PostgreSQL 11.16, pgAdmin4 6.8, Visual Studio Code 1.68.1, 
-Git Bash to commit changes into GitHub Repository
+# Tools and Software: 
+- QuickDB for ERD, PostgreSQL 11.16, pgAdmin4 6.8, Visual Studio Code 1.68.1, Git Bash to commit changes into GitHub Repository
+
 
 ## Finding
 
@@ -48,7 +49,5 @@ There are little over 1500 employees eligible for the mentorship program. To be 
 -	1, 549
 
 
- ## Election-Audit Summary:
-The code in PyPoll for the election audit can be used in different use case with little changes. Two uses are as follows.
-- The code can be used to audit in more than 3 counties with multiple candidates.
-- The code can be used in different counties in different states with minor changes.
+# Links to images:
+
