@@ -56,3 +56,26 @@ AND (emp.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY emp.emp_no
 
 
+
+-- Create unique senior engineer table
+SELECT DISTINCT ON (t.emp_no)
+t.emp_no,
+t.first_name,
+t.last_name,
+t.title
+--INTO senior_engineers
+FROM retirement_titles t
+WHERE t.to_date = '9999-01-01'
+AND t.title = 'Senior Engineer'
+ORDER BY t.emp_no ASC, t.to_date DESC;
+
+
+
+-- Create table to hold count of total senior engineer
+SELECT COUNT(ut.emp_no),
+ut.title
+--INTO total_senior_engineer
+FROM unique_titles AS ut
+WHERE ut.title = 'Senior Engineer'
+GROUP BY ut.title
+ORDER BY COUNT(ut.emp_no) desc
