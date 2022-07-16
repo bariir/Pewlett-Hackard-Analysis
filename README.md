@@ -52,9 +52,11 @@ There are little over 1500 employees eligible for the mentorship program. To be 
   
   Here are two additional query images that provide Senior Engineers and total count of Senior Engineers that are about to retire.<br>
   
-  Senior Engineers:![Senior_Engineers.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/Senior_Engineers.png?raw=true)<br>
-  
-  Total Senior Engineer:![Total_Senior_Engineer.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/Total_Senior_Engineer.png?raw=true)<br>
+-  Senior Engineers that are retiring soon.<br>
+  ![Senior Engineers](/Resources/Senior_Engineers.png)<br>
+
+- Total count of Senior Engineers that are retiring soon<br>
+  ![Total count of Senior Engineers](/Resources/Total_Senior_Engineer.png)<br>
 
 
 ## Links to images:
