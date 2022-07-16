@@ -36,17 +36,17 @@ The analysis of the Pewlett Hackard employee results shows that:
 
 •	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 There will be 7 roles including Engineer, Staff, Senior Engineer, Senior Staff, Technique Leader, Assistant Engineer and Manager. Here is the breakdown:
--	9,285 Engineers
--	7,636 Staff
--	25,916 Senior Engineers
--	24,926 Senior Staff
--	3,603 Technique Leader
--	1,090 Assistant Engineers
--	2 Managers
+ -	9,285 Engineers
+ -	7,636 Staff
+ -	25,916 Senior Engineers
+ -	24,926 Senior Staff
+ -	3,603 Technique Leader
+ -	1,090 Assistant Engineers
+ -	2 Managers
 
 •	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are little over 1500 employees eligible for the mentorship program. To be exact, the number is:
--	1, 549
+ -	1, 549
 
 
 # Links to images:
