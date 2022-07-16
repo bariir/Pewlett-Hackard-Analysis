@@ -22,7 +22,7 @@ The analysis of the Pewlett Hackard employee results shows that:
  ![Retirement Titles](/Resources/Retirement_Titles.png)<br>
 
 - Unique employees with their latest titles
-
+![Unique Titles](/Resources/Unique_Titles.png)<br>
 
 
 
