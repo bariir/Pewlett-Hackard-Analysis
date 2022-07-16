@@ -18,12 +18,12 @@ Git Bash to commit changes into GitHub Repository
 ## Finding
 
 The analysis of the Pewlett Hackard employee results shows that:
-- Retiring employees and their title where their birth date is between ‘1952-01-01’ and ‘1955-12-31’
+-Retiring employees and their title where their birth date is between ‘1952-01-01’ and ‘1955-12-31’
 ![Retirement Titles](/Resources/Retirement_Titles.png)<br>
 <br>
 
 
--  Unique employees with their latest titles
+-Unique employees with their latest titles
 ![Unique Titles](/Resources/Unique_Titles.png)<br>
 
 
