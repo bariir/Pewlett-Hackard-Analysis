@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-# Overview of Pewlett Hackard Analysis
+## Overview of Pewlett Hackard Analysis
 Pewlett Hackard company has lots of employees that will be retiring soon, and they even have term for it, "silver tsunami". In order to prepare the company for this scenario, the human resource is tasked to do the following.
 1.	Analyze the number of employees that will be retiring soon and their titles, 
 2.	Analyze number of employees that are eligible for a mentorship program. 
