@@ -50,4 +50,4 @@ There are little over 1500 employees eligible for the mentorship program. To be 
 
 
 # Links to images:
-Retirement Titles: [![alt text](/Retirement_Titles.png)](https://github.com/bariir/kickstarter-analysis/tree/main/Retirement_Titles.png?raw=true)
+[![Retirement_Titles.png](https://github.com/bariir/kickstarter-analysis/tree/main/Retirement_Titles.png?raw=true)
